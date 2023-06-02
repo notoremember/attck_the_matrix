@@ -5,7 +5,7 @@ the rules and tasts for 3.06.23 is:
     3.read a book
     4.work harder
     5. don't stop
-
+    6.watch the matrix
 #
     1.wake up
     2.cold shower
