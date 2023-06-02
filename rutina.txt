@@ -8,6 +8,7 @@ the rules and tasts for 3.06.23 is:
     6.watch the matrix
 #
     1.wake up
+    2.тренировка
     2.cold shower
     3.eat useful food
     4.meditation
